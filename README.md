@@ -1,3 +1,9 @@
+Target Skill: Algorithmic Implementation & Model Validation.
+
+Developed a discrete 2D heat equation solver implemented on a coordinate grid using NumPy. This project demonstrates my ability to translate physical laws into functional code and perform rigorous comparative analysis between analytical solutions and computational simulations.
+
+---------------------------------------
+
 # Thermal-Consuction
 
 The purpose of this project was to calculated and simulate the spread of the heat using heat equation for 2 dimensional system.
